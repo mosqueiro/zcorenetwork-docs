@@ -6,6 +6,10 @@
 
 A ZCore tem o prazer de apresentar sua exclusiva coleção de NFT Validators, uma iniciativa pioneira no mundo das criptomoedas e da tecnologia blockchain. Esta coleção representa não apenas um ativo digital único, mas também uma chave para participar ativamente na validação e no suporte da rede ZCore Network (ZCN).
 
+> :arrow\_right: Informações sobre Validadores ZCN
+>
+> [validadores.md](zcore-evm-zcn/validadores.md "mention")
+
 **Aquisição de NFT Validators: O Caminho Através de NFTs Lendários**
 
 Para se tornar um detentor de um NFT Validator, é essencial primeiro possuir um NFT lendário da ZCore. Esta pré-requisito assegura que apenas os participantes mais comprometidos e dedicados tenham a oportunidade de adquirir um NFT Validator. Cada NFT lendário é elegível para ser trocado por um NFT Validator, estabelecendo um caminho exclusivo e valioso para os entusiastas da criptomoeda.
