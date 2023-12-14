@@ -1,2 +1,2 @@
-# ZCore Wallet App
+# 📱 ZCore Wallet App
 

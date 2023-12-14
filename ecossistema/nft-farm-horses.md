@@ -1,2 +1,2 @@
-# NFT Farm Horses
+# 🐎 NFT Farm Horses
 

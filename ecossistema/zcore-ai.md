@@ -1,2 +1,2 @@
-# ZCore AI
+# 🤖 ZCore AI
 

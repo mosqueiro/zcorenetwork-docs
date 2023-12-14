@@ -1,2 +1,2 @@
-# ZCore Network EVM (ZCN)
+# 🌐 ZCore Network EVM (ZCN)
 

@@ -1,4 +1,4 @@
-# Cointrack
+# 📊 Cointrack
 
 * _Initial LP: **BNB**_
 * _Token Tax: 3**% buy / 11% sell**_
