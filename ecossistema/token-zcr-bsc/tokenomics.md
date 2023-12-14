@@ -4,7 +4,7 @@
 >
 > Simbolo : **ZCR**
 >
-> Max Supply : **2,500,000,00**
+> Max Supply : **2,500,000,000**
 >
 > Contrato : **0x0e8fe6eed5342ea9189d9268d088821f0532fb74**
 >
