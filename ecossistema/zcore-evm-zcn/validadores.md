@@ -1,5 +1,7 @@
 # ✅ Validadores
 
+<figure><img src="../../.gitbook/assets/ZCore_Passport-NFT-Cover.png" alt=""><figcaption></figcaption></figure>
+
 **O Sistema de Validadores da Rede ZCN**
 
 A Rede ZCN da ZCore Network apresenta um inovador sistema de validação, baseado em um modelo exclusivo que integra a tecnologia NFT com a mecânica de validação de blockchain. Este sistema é crucial para manter a segurança e a eficiência da rede.
