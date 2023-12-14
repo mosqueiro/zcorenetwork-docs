@@ -22,6 +22,10 @@ Para se tornar um validador na Rede ZCN, são necessários três componentes pri
 
 Na Rede ZCN, os validadores são recompensados por cada bloco descoberto. O processo segue um sistema de fila, onde cada validador recebe a recompensa por blocos descobertos em sequência. Essa mecânica garante uma distribuição justa e sistemática das recompensas. Os interessados podem observar esse processo em ação na testnet da rede.
 
+> :globe\_with\_meridians: ZCN Testnet :&#x20;
+>
+> [https://testnet.zcore.network/](https://testnet.zcore.network/)
+
 **Emissão e Disponibilidade dos NFTs Validadores**
 
 Até o momento, 29 dos 40 NFTs Validadores já foram emitidos, restando apenas 11 disponíveis. Essa escassez destaca a exclusividade e o valor desses NFTs no ecossistema ZCN.
@@ -29,6 +33,9 @@ Até o momento, 29 dos 40 NFTs Validadores já foram emitidos, restando apenas 1
 **Adquirindo um NFT Validador**
 
 Para adquirir um NFT Validador, os usuários devem primeiro mintar um NFT da coleção Farm Horses. Dentro desta coleção, os NFTs Lendários são os únicos que concedem o direito a um NFT Validador. Os NFTs Lendários restantes estão distribuídos aleatoriamente na coleção Farm Horses, adicionando um elemento de surpresa e oportunidade na busca por se tornar um validador na Rede ZCN.
+
+> :racehorse: Mint NFT Farm Horses : \
+> [https://zcore.network/mint.html](https://zcore.network/mint.html)
 
 **Conclusão**
 
