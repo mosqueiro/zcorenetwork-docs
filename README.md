@@ -5,28 +5,13 @@ coverY: 0
 
 # ℹ Sobre a ZCore
 
-A ZCore está presente no mercado desde 2015, dedicando-se à construção de inovações derivadas da tecnologia blockchain. Em nosso portfólio, destacam-se as seguintes soluções e avanços tecnológicos:
+A ZCore Network é uma inovadora empresa de tecnologia blockchain, destacando-se no mercado com uma gama de produtos e serviços avançados. Entre seus principais produtos, estão:
 
-* Coleção NFT (link para o tópico NFT)
+1. **ZCore Wallet**: Esta carteira digital representa a espinha dorsal da oferta de produtos da ZCore. É uma solução segura e versátil para o armazenamento e gerenciamento de criptomoedas, oferecendo uma interface intuitiva para usuários de todos os níveis.
+2. **Solução PIX integrada à ZCore Wallet**: Esta integração inovadora permite transações rápidas e seguras usando o sistema PIX, um método de pagamento instantâneo amplamente utilizado no Brasil. Essa funcionalidade torna a ZCore Wallet ainda mais acessível e conveniente para os usuários, facilitando a movimentação de fundos entre criptomoedas e moeda fiat.
+3. **Plataforma ZCore AI**: Uma plataforma avançada que utiliza inteligência artificial para otimizar a experiência de trading e gestão de ativos digitais. A ZCore AI analisa o mercado de criptomoedas, fornecendo insights valiosos e ajudando os usuários a tomar decisões de investimento mais informadas.
+4. **Integração da Plataforma ZCore AI no Aplicativo ZCore Wallet**: Esta integração une o melhor dos dois mundos – a conveniência da ZCore Wallet e a inteligência avançada da ZCore AI. Com isso, os usuários têm acesso a análises de mercado e recomendações de trading diretamente em suas carteiras digitais.
+5. **Rede EVM ZCN**: A ZCore Network também se destaca com sua própria Rede EVM (Ethereum Virtual Machine), chamada ZCN. Esta rede oferece compatibilidade com aplicativos descentralizados (DApps) e smart contracts, permitindo aos desenvolvedores criar e lançar soluções inovadoras no ecossistema ZCore.
+6. **Metaverso ZCore City**: Um ambicioso projeto que representa a entrada da ZCore no universo dos metaversos. ZCore City é um ambiente virtual imersivo, onde os usuários podem interagir, participar em eventos, jogos e outras atividades, usando a tecnologia blockchain para uma experiência segura e descentralizada.
 
-Na coleção "Farm Horse", esta presente os validadores e delegadores do sistema POSDAO, desempenhando um papel crucial na governança da estrutura ZCore. Os "horses" possibilitam aos seus detentores tornarem-se validadores e delegadores na rede ZCore Network, proporcionando ganhos através do stake em ZCR e USDT. Além disso, são responsáveis por participar em votações no ecossistema um exemplo é o campeonato de Artes NFT IA que também obtem partipação nos lucros por mintagem de NFT na plataforma e desfrutar de uma participação exclusiva no Metaverso ZCore City.
-
-* ZCore Wallet(Link para o tópico da Wallet)
-
-A carteira descentralizada ZCore oferece um armazenamento seguro para seus investimentos, permitindo o uso do staking dos tokens ZCR, staking FarmHorse NFT, e a integração de DApps, incluindo a inovação ZcoreNFTAI.
-
-* Solução PIX integrada a ZCore Wallet
-
-O PIX representa uma solução brasileira para pagamentos instantâneos. A ZCore adotou essa inovação para facilitar pagamentos cotidianos, eliminando a necessidade de conversões de moedas ou cadastros extensos em exchanges. Basta ter ZCR na carteira ZCore(link para tópico da carteira) para realizar pagamentos de maneira simples e rápida.
-
-* ZcoreNFTAI(link para o tópico ZcoreNFTAI)
-
-Por meio de uma avançada ferramenta de Inteligência Artificial, a ZCore desenvolveu uma experiência singular na criação de imagens. Ao utilizar o prompt IA, é possível obter diversas variações da imagem, participar de concursos de Artes NFT e, com poucos cliques e muita criatividade, a ZCore proporciona essa experiência única para você.
-
-* Rede EVM ZCore Network (link para o tópico da rede ZCN)
-
-Uma rede robusta e altamente eficiente, cujo token nativo é o ZCR, um token deflacionário com um sistema de queima já em pleno funcionamento. Pioneira na introdução de validadores com NFT, a Zcore Network já oferece, desde o seu lançamento, serviços operacionais como PIX, ZcoreNFTAI, além de contar com validadores e delegadores associados a NFTs.
-
-* Metaverso ZCore City(link tópico metaverso)
-
-A gamificação é uma parte essencial desse ecossistema apaixonado por tecnologia, proporcionando a todos uma experiência mais acessível nas soluções blockchain. O Metaverso Zcore City oferece uma dinâmica de aventuras envolventes em primeira pessoa, permitindo a aquisição de bens e proporcionando aos detentores de FarmHorse acesso a itens exclusivos no jogo.
+No conjunto, a ZCore Network oferece um ecossistema robusto e integrado para os entusiastas de criptomoedas e blockchain, marcando sua presença como uma líder inovadora no setor.
