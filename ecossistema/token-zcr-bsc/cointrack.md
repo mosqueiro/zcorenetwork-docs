@@ -2,13 +2,13 @@
 
 > #### CoinMarketCap <a href="#coinmarketcap" id="coinmarketcap"></a>
 >
-> * ​[https://coinmarketcap.com/pt-br/currencies/baby-luffy/](https://coinmarketcap.com/pt-br/currencies/baby-luffy/)​
+> * [​](https://coinmarketcap.com/currencies/zcore-network/)[https://coinmarketcap.com/currencies/zcore-network/](https://coinmarketcap.com/currencies/zcore-network/)​
 
 > #### CoinGecko <a href="#coingecko" id="coingecko"></a>
 >
-> * ​[https://www.coingecko.com/pt/moedas/baby-luffy](https://www.coingecko.com/pt/moedas/baby-luffy)​
+> * [https://www.coingecko.com/pt/moedas/zcore](https://www.coingecko.com/pt/moedas/zcore)​
 
-> #### Binance track <a href="#binance-track" id="binance-track"></a>
+> #### Binance Track <a href="#binance-track" id="binance-track"></a>
 >
 > * ​[https://www.binance.com/en/price/zcore-network](https://www.binance.com/en/price/zcore-network)
 >

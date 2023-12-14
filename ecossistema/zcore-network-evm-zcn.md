@@ -1,2 +1,0 @@
-# 🌐 ZCore Network EVM (ZCN)
-
