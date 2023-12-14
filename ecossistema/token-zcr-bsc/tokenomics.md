@@ -8,7 +8,7 @@
 >
 > Contrato : **0x0e8fe6eed5342ea9189d9268d088821f0532fb74**
 >
-> Holders : [https://bscscan.com/token/0x0e8fe6eed5342ea9189d9268d088821f0532fb74#balances](https://bscscan.com/token/0x0e8fe6eed5342ea9189d9268d088821f0532fb74#balances)
+> Detalhes : :globe\_with\_meridians: [**BscScan**](https://bscscan.com/token/0x0e8fe6eed5342ea9189d9268d088821f0532fb74#balances)
 
 ## Queimas
 
