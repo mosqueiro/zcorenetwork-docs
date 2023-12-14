@@ -1,3 +1,8 @@
+---
+cover: .gitbook/assets/ZCore_Rebranding.png
+coverY: 0
+---
+
 # ℹ Sobre a ZCore
 
 A ZCore está presente no mercado desde 2015, dedicando-se à construção de inovações derivadas da tecnologia blockchain. Em nosso portfólio, destacam-se as seguintes soluções e avanços tecnológicos:
