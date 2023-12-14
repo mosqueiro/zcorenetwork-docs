@@ -1,0 +1,2 @@
+# ZCore Network EVM (ZCN)
+
