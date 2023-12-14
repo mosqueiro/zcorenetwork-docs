@@ -15,6 +15,7 @@
   * [📊 Cointrack](ecossistema/token-zcr-bsc/cointrack.md)
 * [🌐 ZCore EVM (ZCN)](ecossistema/zcore-evm-zcn/README.md)
   * [⚙ Configurações](ecossistema/zcore-evm-zcn/configuracoes.md)
+  * [✅ Validadores](ecossistema/zcore-evm-zcn/validadores.md)
 * [📱 ZCore Wallet App](ecossistema/zcore-wallet-app.md)
 * [🤖 ZCore AI](ecossistema/zcore-ai.md)
 * [🐎 NFT Farm Horses](ecossistema/nft-farm-horses.md)
