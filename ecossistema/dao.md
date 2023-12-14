@@ -1,6 +1,6 @@
 # 🗳 DAO
 
-<figure><img src="../.gitbook/assets/Captura de Tela 2023-12-14 às 13.48.34.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Captura de Tela 2023-12-14 às 13.48.34.png" alt=""><figcaption><p><a href="https://dao.zcore.network/#/">https://dao.zcore.network</a></p></figcaption></figure>
 
 **Introdução**
 
