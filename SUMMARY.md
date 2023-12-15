@@ -22,3 +22,9 @@
 * [✅ NFT Validators](ecossistema/nft-validators.md)
 * [🗳 DAO](ecossistema/dao.md)
 * [🏙 Metaverso ZCore City](ecossistema/metaverso-zcore-city.md)
+
+## LINKS
+
+* [Website](https://zcore.network/)
+* [Twitter](https://twitter.com/zcorecrypto)
+* [Telegram](https://t.me/zcoreminers)
