@@ -1,5 +1,7 @@
 # 🤖 ZCore AI
 
+{% embed url="https://youtu.be/MhbZtPBKhgA" %}
+
 A grande inovação que estamos orgulhosamente apresentando é a plataforma de inteligência artificial ZCore AI. \
 Esta plataforma descentralizada está prestes a revolucionar a esfera dos NFTs, transformando completamente a forma como são criados e comercializados. Incorporando a vanguarda da inteligência artificial, ela oferece acesso simplificado e imediato com apenas um clique, abrindo um mundo de possibilidades inovadoras e acessíveis na criação de NFTs. Prepare-se para uma experiência única, onde tecnologia e arte se encontram de maneira nunca vista antes!\
 Com a ZCore AI, os usuários podem criar NFTs utilizando a inteligência artificial com apenas um clique, sem a necessidade de habilidades de codificação.
