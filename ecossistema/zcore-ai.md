@@ -1,9 +1,10 @@
 # 🤖 ZCore AI
 
 {% embed url="https://youtu.be/MhbZtPBKhgA" %}
+[https://ai.zcore.network/](https://ai.zcore.network/)
+{% endembed %}
 
-A grande inovação que estamos orgulhosamente apresentando é a plataforma de inteligência artificial ZCore AI. \
-Esta plataforma descentralizada está prestes a revolucionar a esfera dos NFTs, transformando completamente a forma como são criados e comercializados. Incorporando a vanguarda da inteligência artificial, ela oferece acesso simplificado e imediato com apenas um clique, abrindo um mundo de possibilidades inovadoras e acessíveis na criação de NFTs. Prepare-se para uma experiência única, onde tecnologia e arte se encontram de maneira nunca vista antes!\
+A grande inovação que estamos orgulhosamente apresentando é a plataforma de inteligência artificial ZCore AI.  Esta plataforma descentralizada está prestes a revolucionar a esfera dos NFTs, transformando completamente a forma como são criados e comercializados. Incorporando a vanguarda da inteligência artificial, ela oferece acesso simplificado e imediato com apenas um clique, abrindo um mundo de possibilidades inovadoras e acessíveis na criação de NFTs. Prepare-se para uma experiência única, onde tecnologia e arte se encontram de maneira nunca vista antes!\
 Com a ZCore AI, os usuários podem criar NFTs utilizando a inteligência artificial com apenas um clique, sem a necessidade de habilidades de codificação.
 
 <figure><img src="https://miro.medium.com/v2/resize:fit:700/1*XRkQVByW4xqgwdtkKvT1dA.png" alt="" height="343" width="700"><figcaption><p>Queime ZCR para gerar as imagens</p></figcaption></figure>
@@ -26,12 +27,12 @@ A ZCore AI oferece uma abordagem revolucionária na criação de NFTs, permitind
 
 As receitas da plataforma são distribuídas da seguinte maneira:
 
-* 50% das ZCR são queimadas, contribuindo para a valorização da moeda.
-* Os outros 50% são divididos em:
-* \- 20% para campeonatos de NFTs
-* \- 20% para staking de ZCR, Farm Horses e Validadores
-* \- 5% para o programa de indicação
-* \- 5% para a equipe ZCore
+* 40% das ZCR são queimadas, contribuindo para a valorização da moeda.
+* Os outros 50% são divididos em:\
+  \- 20% para campeonatos de NFTs\
+  \- 20% para staking de ZCR, Farm Horses e Validadores\
+  \- 5% para o programa de indicação\
+  \- 15% para o custo da plataforma (servidores, APIs, desenvolvimento)
 
 <figure><img src="https://miro.medium.com/v2/resize:fit:700/1*8gnHefiFsgR36QAD-Ls0Xg.png" alt="" height="234" width="700"><figcaption><p>Variações Farm Horses</p></figcaption></figure>
 
