@@ -12,9 +12,9 @@
 
 ## Queimas
 
-> :fire: As queimas de ZCR, essenciais ao seu funcionamento, são executadas por meio da rede ZCN e da plataforma ZCore AI. Diferente das práticas convencionais, estas queimas nativas diminuem o supply total diretamente, sem a necessidade de transferência para um endereço de queima específico. Este método assegura uma representação mais precisa do marketcap do token. Com a redução contínua do supply total, a ZCR se transforma em um token deflacionário, o que potencialmente aumenta seu valor devido à escassez crescente no mercado.
+> :fire: As queimas de ZCR, fundamentais para o seu mecanismo de operação, são conduzidas através da rede ZCN e da plataforma ZCore AI. Em contraste com os métodos convencionais, estas queimas nativas reduzem o supply total diretamente, sem precisar enviar para um endereço de queima específico. Esta abordagem garante uma representação mais acurada do marketcap do token.
 >
->
+> :heavy\_plus\_sign: Além dos atuais, a ZCore planeja implementar sistemas adicionais de queima em seus novos produtos, reforçando o caráter deflacionário da moeda. Com isso, a ZCR tende a se valorizar ainda mais devido à diminuição progressiva do supply no mercado.
 >
 > :globe\_with\_meridians: O fornecimento inicial da ZCR é de 2,5 bilhões, e você pode acompanhar as queimas verificando o supply listado no BscScan: [https://bscscan.com/token/0x0e8fe6eed5342ea9189d9268d088821f0532fb74](https://bscscan.com/token/0x0e8fe6eed5342ea9189d9268d088821f0532fb74).
 
