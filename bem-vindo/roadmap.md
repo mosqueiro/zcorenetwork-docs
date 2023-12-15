@@ -10,7 +10,7 @@ O plano estratégico da ZCore está alinhado com nosso compromisso contínuo de 
 * [x] Lançamento do novo contrato ZCR de acordo com a votação feita pela DAO
 * [x] Lançamento da versão final da rede ZCN Testnet
 * [x] Demo da plataforma ZCore AI no app ZCore Wallet
-* [x] Implementação do sistema de queima do token ZCR (BSC)
+* [x] Implementação do sistema de queima real do token ZCR (BSC)
 * [ ] Lançamento da plataforma de inteligência artificial ZCore AI
 * [ ] Lançamento oficial do sistema de pagamento PIX na ZCore Wallet.
 
