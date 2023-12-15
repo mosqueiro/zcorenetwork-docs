@@ -1,7 +1,7 @@
 # 🤖 ZCore AI
 
-{% embed url="https://youtu.be/MhbZtPBKhgA" %}
-[https://ai.zcore.network/](https://ai.zcore.network/)
+{% embed url="https://www.youtube.com/watch?v=J2vkmX-4fDs" %}
+https://ai.zcore.network
 {% endembed %}
 
 > :globe\_with\_meridians: Teste a plataforma :&#x20;
