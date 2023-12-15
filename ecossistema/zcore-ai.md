@@ -32,7 +32,7 @@ A ZCore AI oferece uma abordagem revolucionária na criação de NFTs, permitind
 As receitas da plataforma são distribuídas da seguinte maneira:
 
 * 40% das ZCR são queimadas, contribuindo para a valorização da moeda.
-* Os outros 50% são divididos em:\
+* Os outros 60% são divididos em:\
   \- 20% para campeonatos de NFTs\
   \- 20% para staking de ZCR, Farm Horses e Validadores\
   \- 5% para o programa de indicação\
