@@ -18,13 +18,19 @@ A posse de um NFT Farm Horse não é apenas um ativo digital; é uma chave para 
 
 A ZCore Farm Horses oferece benefícios financeiros notáveis aos seus detentores. Um desses benefícios é o acesso a um pool de staking exclusivo, que proporciona um rendimento de 2% das reflexões de ZCR, a criptomoeda nativa da rede. Este pool de staking representa uma oportunidade única de geração de renda passiva, reforçando o valor intrínseco destes NFTs.
 
-> :closed\_lock\_with\_key: Stake NFT :&#x20;
+> :closed\_lock\_with\_key: Stake NFT (antigo) :&#x20;
+>
+> [https://zcore.network/staking-old.html](https://zcore.network/staking.html)
+>
+>
+>
+> :closed\_lock\_with\_key: Stake NFT (novo) :&#x20;
 >
 > [https://zcore.network/staking.html](https://zcore.network/staking.html)
 
 **O Papel dos Delegators na Rede ZCN**
 
-Na rede ZCN, os detentores dos NFTs Farm Horses assumem um papel crucial como delegators. Para participar neste grupo exclusivo, é necessário contribuir com 1 NFT Farm Horse e um investimento de 100 milhões de ZCR. Esta participação não só reafirma o compromisso dos detentores com a rede, mas também oferece acesso a rendimentos específicos deste pool, destacando a sinergia entre investimento e recompensa na ZCore Network.
+Na rede ZCN, os detentores dos NFTs Farm Horses assumem um papel crucial como delegators. Para participar neste grupo exclusivo, é necessário contribuir com 1 NFT Farm Horse e um investimento de 100 mil ZCR. Esta participação não só reafirma o compromisso dos detentores com a rede, mas também oferece acesso a rendimentos específicos deste pool, destacando a sinergia entre investimento e recompensa na ZCore Network.
 
 **Conclusão**
 
