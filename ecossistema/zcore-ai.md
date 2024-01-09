@@ -1,7 +1,7 @@
 # 🤖 ZCore AI
 
 {% embed url="https://youtu.be/POWeVdMAUjU" %}
-Como funciona a ZCore AI
+**Como funciona a ZCore AI**
 {% endembed %}
 
 > :globe\_with\_meridians: [https://ai.zcore.network](https://ai.zcore.network)
@@ -30,7 +30,11 @@ Bem-vindo à ZCore AI, uma inovadora plataforma de Inteligência Artificial foca
 * Escolha seu token e defina o número em 'Reward Mint'.
 * Após a mintagem, acesse o Marketplace para vender seu NFT.
 
-#### Vantagens para Desenvolvedores de Token na ZCore AI
+
+
+{% embed url="https://youtu.be/Ct0yQNB7ZW8" %}
+**Vantagens para Desenvolvedores de Token na ZCore AI**
+{% endembed %}
 
 **Visibilidade e Acesso à Tecnologia de Ponta**
 
@@ -48,10 +52,6 @@ Bem-vindo à ZCore AI, uma inovadora plataforma de Inteligência Artificial foca
 * Aumente a visibilidade e o engajamento do seu token.
 * Atraia novos usuários e investidores.
 * Valorize seu token no mercado.
-
-{% embed url="https://youtu.be/Ct0yQNB7ZW8" %}
-Listagem de Tokens
-{% endembed %}
 
 #### Como Listar Seu Token
 
