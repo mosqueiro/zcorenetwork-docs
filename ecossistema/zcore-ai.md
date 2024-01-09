@@ -64,17 +64,19 @@ Listagem de Tokens
 **Tickets com Token ZCR**
 
 * 50% das ZCR são queimadas.
-* 10% dos USDT para quem indicar amigos.
-* 35% dos USDT para custear a plataforma.
-* 65% dos USDT para o Reward Mint.
+* 50% são convertidas em USDT sendo : \
+  \- 10% dos USDT para quem indicar amigos.\
+  \- 35% dos USDT para custear a plataforma.\
+  \- 65% dos USDT para o Reward Mint.
 
 **Tickets com Outros Tokens**
 
 * 50% são usados para comprar ZCR e queimadas.
-* 10% dos USDT para quem indicar amigos.
-* 10% dos USDT para o desenvolvedor do token.
-* 25% dos USDT para custear a plataforma.
-* 65% dos USDT para o Reward Mint.
+* 50% são convertidos em USDT sendo : \
+  \- 10% dos USDT para quem indicar amigos.\
+  \- 10% dos USDT para o desenvolvedor do token.\
+  \- 25% dos USDT para custear a plataforma.\
+  \- 65% dos USDT para o Reward Mint.
 
 ### Conclusão
 
