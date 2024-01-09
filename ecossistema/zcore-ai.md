@@ -43,7 +43,7 @@ Bem-vindo à ZCore AI, uma inovadora plataforma de Inteligência Artificial foca
 
 **Benefícios Diretos para Desenvolvedores**
 
-* Receba tokens diretamente na sua carteira.
+* Receba USDT diretamente na sua carteira.
 * Ganhe 10% de cada ticket adquirido com seu token.
 * Divida lucros em caso de indicações.
 
