@@ -6,7 +6,7 @@ Simbolo : **ZCRAI**
 
 Max Supply : **1,000,000,000**
 
-Contrato : **0x85bcf2d5046a7a501c818a73c6ba11bd10852233**
+Contrato : **DpCzuUVptrvEquumfomwJQjWrgQXXDN9Ar217oGxcohe**
 
 Detalhes : :globe\_with\_meridians: [**SolScan**](https://solscan.io/token/DpCzuUVptrvEquumfomwJQjWrgQXXDN9Ar217oGxcohe)
 

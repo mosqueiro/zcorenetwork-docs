@@ -5,8 +5,6 @@ coverY: 0
 
 # ℹ️ Sobre a ZCore
 
-## Página Inicial da Documentação ZCore Network 🌐
-
 A ZCore Network é uma empresa inovadora no setor de tecnologia blockchain, oferecendo uma variedade de produtos e serviços avançados. Destacamos as seguintes iniciativas:
 
 ### ZCore Wallet 🏦
