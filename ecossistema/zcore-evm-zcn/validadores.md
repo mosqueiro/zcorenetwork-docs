@@ -2,41 +2,30 @@
 
 <figure><img src="../../.gitbook/assets/ZCore_Passport-NFT-Cover.png" alt=""><figcaption></figcaption></figure>
 
-**O Sistema de Validadores da Rede ZCN**
+## O Sistema de Validadores da Rede ZCN 🌐
 
-A Rede ZCN da ZCore Network apresenta um inovador sistema de validação, baseado em um modelo exclusivo que integra a tecnologia NFT com a mecânica de validação de blockchain. Este sistema é crucial para manter a segurança e a eficiência da rede.
+A Rede ZCN da ZCore Network oferece um sistema de validação inovador 🚀, combinando a confiabilidade da tecnologia blockchain com a exclusividade dos NFTs.
 
-**Limitação e Representação dos Validadores**
+### Limitação e Representação dos Validadores 🔒
 
-A rede ZCN impõe um limite estrito de 40 validadores. Esses validadores são representados por uma coleção única de NFTs, denominada "ZCN Validators". Esta abordagem garante uma distribuição equitativa e controlada do poder de validação na rede.
+Com um limite estratégico de 40 validadores, a rede ZCN assegura uma distribuição equilibrada do poder de validação. Estes validadores são encarnados por NFTs "ZCN Validators", promovendo um sistema de governança justo e controlado.
 
-**Requisitos para Ser um Validador**
+### Requisitos para Ser um Validador 🛠️
 
-Para se tornar um validador na Rede ZCN, são necessários três componentes principais:
+Para se tornar um validador na Rede ZCN, é necessário:
 
-1. **NFT Validador**: Cada validador deve possuir um NFT da coleção ZCN Validators.
-2. **Stake de ZCR**: É necessário um stake de 10 milhões de ZCR para se qualificar como validador.
-3. **Infraestrutura Técnica**: Os validadores precisam operar um VPS (Virtual Private Server) executando o software específico de validação.
+* **NFT Validador:** Possuir um NFT da coleção ZCN Validators.
+* **Stake de ZCR:** Realizar um stake mínimo de 10 milhões de ZCR.
+* **Infraestrutura Técnica:** Manter um VPS (Virtual Private Server) ativo com o software de validação.
 
-**Mecânica de Recompensa e Processo de Validação**
+### Mecânica de Recompensa e Processo de Validação 💰
 
-Na Rede ZCN, os validadores são recompensados por cada bloco descoberto. O processo segue um sistema de fila, onde cada validador recebe a recompensa por blocos descobertos em sequência. Essa mecânica garante uma distribuição justa e sistemática das recompensas. Os interessados podem observar esse processo em ação na testnet da rede.
+Validadores são recompensados por cada bloco validado, seguindo um sistema de fila que assegura uma distribuição equitativa das recompensas. Além disso, os validadores também recebem 1% das vendas de ZCR na Binance Smart Chain (BSC), proporcionando um fluxo de rendimento adicional tanto na rede BSC quanto na rede ZCN.
 
-> :globe\_with\_meridians: ZCN Testnet :&#x20;
->
-> [https://testnet.zcore.network/](https://testnet.zcore.network/)
+### Adquirindo um NFT Validador 🛒
 
-**Emissão e Disponibilidade dos NFTs Validadores**
+Interessados em adquirir um NFT Validador e se juntar ao grupo exclusivo de validadores da ZCN devem entrar em contato com a equipe ZCore pelo e-mail: [info@zcore.network](mailto:info@zcore.network).
 
-Até o momento, 29 dos 40 NFTs Validadores já foram emitidos, restando apenas 11 disponíveis. Essa escassez destaca a exclusividade e o valor desses NFTs no ecossistema ZCN.
+### Conclusão ✨
 
-**Adquirindo um NFT Validador**
-
-Para adquirir um NFT Validador, os usuários devem primeiro mintar um NFT da coleção Farm Horses. Dentro desta coleção, os NFTs Lendários são os únicos que concedem o direito a um NFT Validador. Os NFTs Lendários restantes estão distribuídos aleatoriamente na coleção Farm Horses, adicionando um elemento de surpresa e oportunidade na busca por se tornar um validador na Rede ZCN.
-
-> :racehorse: Mint NFT Farm Horses : \
-> [https://zcore.network/mint.html](https://zcore.network/mint.html)
-
-**Conclusão**
-
-O sistema de validadores da Rede ZCN é um exemplo notável de como a inovação e a tecnologia blockchain podem ser harmonizadas para criar um ecossistema seguro, justo e eficiente. A integração de NFTs neste processo não apenas adiciona um aspecto único de colecionabilidade, mas também garante um sistema de validação robusto e confiável para a rede ZCN. À medida que a rede continua a crescer e se desenvolver, os validadores desempenharão um papel crucial na manutenção da integridade e no avanço do ecossistema ZCore.
+O sistema de validadores da Rede ZCN é uma harmonia perfeita de inovação e tecnologia blockchain, criando um ambiente seguro e eficiente. A integração de NFTs traz um elemento único e confere um sistema de validação robusto. Com a vantagem de ganhos na rede ZCN e participação nas vendas na BSC, os validadores desempenham um papel vital na sustentação da integridade e no avanço do ecossistema ZCore. 🌟

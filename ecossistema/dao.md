@@ -1,4 +1,4 @@
-# 🗳 DAO
+# 🗳️ DAO
 
 <figure><img src="../.gitbook/assets/Captura de Tela 2023-12-14 às 13.48.34.png" alt=""><figcaption><p><a href="https://dao.zcore.network/#/">https://dao.zcore.network</a></p></figcaption></figure>
 
@@ -24,7 +24,7 @@ Os detentores dos NFTs Farm Horses não são apenas investidores; eles são part
 
 > Informações sobre a coleção de NFTs Farm Horses
 >
-> [nft-farm-horses.md](nft-farm-horses.md "mention")
+> [Broken link](broken-reference "mention")
 
 **Transparência e Confiança**
 
