@@ -26,4 +26,4 @@
 4. **Campanha de marketing:**
    * [ ] Continuação da campanha de marketing para manter a visibilidade.
 5. **AirDrop para holders ZCRAI (BSC):**
-   * [ ] Distribuição de AirDrop para os holders de ZCRAI na rede Binance Smart Chain.
+   * [ ] Lançamento do DApp para distribuição de AirDrop exclusivo aos holders de ZCRAI na rede Binance Smart Chain.
