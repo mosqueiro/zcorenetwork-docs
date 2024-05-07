@@ -21,3 +21,32 @@ Os colecionadores de NFTs da ZCRAI desfrutam de diversos benefícios, incluindo 
 A ZCore Network está comprometida em permanecer na vanguarda do desenvolvimento de tecnologia blockchain e IA. Continuaremos a explorar novas possibilidades e a expandir nossas coleções de NFTs, garantindo que nossos colecionadores tenham acesso ao que há de mais avançado no mercado.
 
 Para mais informações sobre como começar a colecionar NFTs ZCore AI, visite nosso website ou entre em contato conosco através de nossos canais oficiais de comunicação.
+
+{% content-ref url="zcrai-solana/tokenomics.md" %}
+[tokenomics.md](zcrai-solana/tokenomics.md)
+{% endcontent-ref %}
+
+{% content-ref url="zcrai-solana/como-comprar.md" %}
+[como-comprar.md](zcrai-solana/como-comprar.md)
+{% endcontent-ref %}
+
+{% content-ref url="zcrai-solana/ponte-bsc-solana.md" %}
+[ponte-bsc-solana.md](zcrai-solana/ponte-bsc-solana.md)
+{% endcontent-ref %}
+
+{% content-ref url="zcrai-solana/bot-telegram.md" %}
+[bot-telegram.md](zcrai-solana/bot-telegram.md)
+{% endcontent-ref %}
+
+{% content-ref url="zcrai-solana/staking.md" %}
+[staking.md](zcrai-solana/staking.md)
+{% endcontent-ref %}
+
+{% content-ref url="zcrai-solana/roadmap.md" %}
+[roadmap.md](zcrai-solana/roadmap.md)
+{% endcontent-ref %}
+
+{% content-ref url="zcrai-solana/links-uteis.md" %}
+[links-uteis.md](zcrai-solana/links-uteis.md)
+{% endcontent-ref %}
+
