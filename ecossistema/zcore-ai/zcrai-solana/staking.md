@@ -6,13 +6,15 @@
 
 O staking é uma forma eficaz para os detentores de criptomoedas aumentarem seus ativos ao bloquear moedas em uma carteira para participar de operações de uma rede blockchain. Com ZCRAI Solana, você pode começar com o staking de Liquidity Pools (LP) e, futuramente, staking de NFTs conforme avanço do roadmap.
 
-### Staking de LP ZCRAI e SOL 🤝
+### Staking de LP ZCRAI/SOL 🤝
 
 Para participar do staking de LP, os usuários devem montar um par de liquidez de ZCRAI e SOL. Os rendimentos do staking são distribuídos em tokens ZCRAI.
 
-#### Como Montar LP de ZCRAI e SOL
+> **Link para o pool ZCRAI :** [https://beta.raydium.io/liquidity-pools/?tab=standard\&show\_farms=false\&sort\_by=apr\&token=DpCzuUVptrvEquumfomwJQjWrgQXXDN9Ar217oGxcohe\&layout=grid](https://beta.raydium.io/liquidity-pools/?tab=standard\&show\_farms=false\&sort\_by=apr\&token=DpCzuUVptrvEquumfomwJQjWrgQXXDN9Ar217oGxcohe\&layout=grid)
 
-1. Acesse a plataforma Raydium, a maior exchange descentralizada da Solana, pelo link: [https://beta.raydium.io/liquidity/increase/?mode=add\&pool\_id=hzsQaPV2TxTsGzfqSRu9rqfVWUpZrvaa5uvYTzXKYuk](https://beta.raydium.io/liquidity/increase/?mode=add\&pool\_id=hzsQaPV2TxTsGzfqSRu9rqfVWUpZrvaa5uvYTzXKYuk)
+#### Como Montar LP de ZCRAI/SOL
+
+1. Acesse a plataforma Raydium, a maior exchange descentralizada da Solana, pelo link de adicionar liquidez ZCRAI/SOL: [https://beta.raydium.io/liquidity/increase/?mode=add\&pool\_id=hzsQaPV2TxTsGzfqSRu9rqfVWUpZrvaa5uvYTzXKYuk](https://beta.raydium.io/liquidity/increase/?mode=add\&pool\_id=hzsQaPV2TxTsGzfqSRu9rqfVWUpZrvaa5uvYTzXKYuk)
 2. Siga as instruções para adicionar liquidez ao pool ZCRAI e SOL, sem se preocupar com ranges; o tipo de LP padrão é direto, você apenas cria o LP e o deposita no pool de staking.
 3. Após adicionar liquidez, você receberá tokens LP que simbolizam sua parte no pool.
 
