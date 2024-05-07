@@ -22,3 +22,31 @@ A Coleção ZCRAI na rede Solana apresenta uma série futurista de 10.000 robôs
 * **Engajamento Comunitário e Rendimento:** A mecânica de staking incentiva os detentores a permanecerem engajados com a coleção, proporcionando-lhes uma forma de obter rendimentos passivos enquanto participam ativamente do ecossistema.
 
 Essa coleção na rede Solana é um exemplo de como a criatividade e a inovação podem ser aplicadas no desenvolvimento de NFTs, criando um ecossistema vibrante e economicamente robusto que beneficia colecionadores e investidores.
+
+{% content-ref url="tokenomics.md" %}
+[tokenomics.md](tokenomics.md)
+{% endcontent-ref %}
+
+{% content-ref url="como-comprar.md" %}
+[como-comprar.md](como-comprar.md)
+{% endcontent-ref %}
+
+{% content-ref url="ponte-bsc-solana.md" %}
+[ponte-bsc-solana.md](ponte-bsc-solana.md)
+{% endcontent-ref %}
+
+{% content-ref url="bot-telegram.md" %}
+[bot-telegram.md](bot-telegram.md)
+{% endcontent-ref %}
+
+{% content-ref url="staking.md" %}
+[staking.md](staking.md)
+{% endcontent-ref %}
+
+{% content-ref url="roadmap.md" %}
+[roadmap.md](roadmap.md)
+{% endcontent-ref %}
+
+{% content-ref url="links-uteis.md" %}
+[links-uteis.md](links-uteis.md)
+{% endcontent-ref %}

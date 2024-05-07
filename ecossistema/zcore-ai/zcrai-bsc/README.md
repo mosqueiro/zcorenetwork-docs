@@ -21,3 +21,19 @@ Os colecionadores desta série exclusiva de NFTs de anime têm o privilégio de 
 Investir na coleção ZCRAI na BSC é mais do que uma aquisição de arte digital; é um investimento estratégico em uma das áreas mais promissoras da tecnologia blockchain. Com a combinação de uma estética atraente e a tecnologia avançada do protocolo ERC-404, esta coleção está posicionada para ser uma das mais cobiçadas no espaço dos NFTs.
 
 Esta coleção representa uma fusão excepcional de arte, tecnologia e finanças, criando um novo paradigma para coleções digitais no mundo do anime e além.
+
+{% content-ref url="tokenomics.md" %}
+[tokenomics.md](tokenomics.md)
+{% endcontent-ref %}
+
+{% content-ref url="como-comprar.md" %}
+[como-comprar.md](como-comprar.md)
+{% endcontent-ref %}
+
+{% content-ref url="staking.md" %}
+[staking.md](staking.md)
+{% endcontent-ref %}
+
+{% content-ref url="links-uteis.md" %}
+[links-uteis.md](links-uteis.md)
+{% endcontent-ref %}

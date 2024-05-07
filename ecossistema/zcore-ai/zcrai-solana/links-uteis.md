@@ -22,6 +22,8 @@ Aqui está uma seleção de links essenciais para quem deseja interagir com o ZC
 ### Staking e Liquidez de ZCRAI 💸
 
 * **Raydium (Staking e Liquidez):** [https://beta.raydium.io/portfolio/](https://beta.raydium.io/portfolio/)
+* **Pool de Liquidez ZCRAI:** [https://beta.raydium.io/liquidity-pools/?token=DpCzuUVptrvEquumfomwJQjWrgQXXDN9Ar217oGxcohe\&tab=standard\&layout=grid](https://beta.raydium.io/liquidity-pools/?token=DpCzuUVptrvEquumfomwJQjWrgQXXDN9Ar217oGxcohe\&tab=standard\&layout=grid)
+* **Staking ZCRAI:** [https://beta.raydium.io/liquidity-pools/?token=DpCzuUVptrvEquumfomwJQjWrgQXXDN9Ar217oGxcohe\&tab=standard\&layout=grid\&show\_farms=true](https://beta.raydium.io/liquidity-pools/?token=DpCzuUVptrvEquumfomwJQjWrgQXXDN9Ar217oGxcohe\&tab=standard\&layout=grid\&show\_farms=true)
 
 ### Bridges entre BSC e Solana 🌉
 
