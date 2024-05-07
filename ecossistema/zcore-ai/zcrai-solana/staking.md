@@ -14,7 +14,7 @@ Para participar do staking de LP, os usuários devem montar um par de liquidez d
 
 #### Como Montar LP de ZCRAI/SOL
 
-1. Acesse a plataforma Raydium, a maior exchange descentralizada da Solana, pelo link de adicionar liquidez ZCRAI/SOL: [https://beta.raydium.io/liquidity/increase/?mode=add\&pool\_id=hzsQaPV2TxTsGzfqSRu9rqfVWUpZrvaa5uvYTzXKYuk](https://beta.raydium.io/liquidity/increase/?mode=add\&pool\_id=hzsQaPV2TxTsGzfqSRu9rqfVWUpZrvaa5uvYTzXKYuk)
+1. Acesse a Raydium, a principal exchange descentralizada da rede Solana, utilizando o seguinte link para adicionar liquidez ao par ZCRAI/SOL: [https://beta.raydium.io/liquidity/increase/?mode=add\&pool\_id=hzsQaPV2TxTsGzfqSRu9rqfVWUpZrvaa5uvYTzXKYuk](https://beta.raydium.io/liquidity/increase/?mode=add\&pool\_id=hzsQaPV2TxTsGzfqSRu9rqfVWUpZrvaa5uvYTzXKYuk)
 2. Siga as instruções para adicionar liquidez ao pool ZCRAI e SOL, sem se preocupar com ranges; o tipo de LP padrão é direto, você apenas cria o LP e o deposita no pool de staking.
 3. Após adicionar liquidez, você receberá tokens LP que simbolizam sua parte no pool.
 
