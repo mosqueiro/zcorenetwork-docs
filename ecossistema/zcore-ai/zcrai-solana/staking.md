@@ -1,6 +1,6 @@
 # 🔐 Staking
 
-<figure><img src="../../../.gitbook/assets/Captura de Tela 2024-05-06 às 15.50.34.png" alt=""><figcaption><p><a href="https://beta.raydium.io/portfolio/">https://beta.raydium.io/portfolio/</a></p></figcaption></figure>
+{% embed url="https://youtu.be/EIsvVMS5iBA" %}
 
 ### Introdução ao Staking 🌱
 
@@ -10,7 +10,7 @@ O staking é uma forma eficaz para os detentores de criptomoedas aumentarem seus
 
 Para participar do staking de LP, os usuários devem montar um par de liquidez de ZCRAI e SOL. Os rendimentos do staking são distribuídos em tokens ZCRAI.
 
-> **Link para o pool ZCRAI :** [https://beta.raydium.io/liquidity-pools/?tab=standard\&show\_farms=false\&sort\_by=apr\&token=DpCzuUVptrvEquumfomwJQjWrgQXXDN9Ar217oGxcohe\&layout=grid](https://beta.raydium.io/liquidity-pools/?tab=standard\&show\_farms=false\&sort\_by=apr\&token=DpCzuUVptrvEquumfomwJQjWrgQXXDN9Ar217oGxcohe\&layout=grid)
+> **Link para o pool ZCRAI :** [https://beta.raydium.io/liquidity/increase/?mode=stake\&pool\_id=hzsQaPV2TxTsGzfqSRu9rqfVWUpZrvaa5uvYTzXKYuk](https://beta.raydium.io/liquidity/increase/?mode=stake\&pool\_id=hzsQaPV2TxTsGzfqSRu9rqfVWUpZrvaa5uvYTzXKYuk)
 
 #### Como Montar LP de ZCRAI/SOL
 
