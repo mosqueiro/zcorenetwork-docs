@@ -12,10 +12,6 @@ Cada NFT da coleção ZCRAI é criado utilizando algoritmos avançados de inteli
 
 A tecnologia de IA não só garante a originalidade de cada peça como também assegura a sua autenticidade e a impossibilidade de duplicação exata. Isso confere aos colecionadores a certeza de que estão adquirindo uma peça verdadeiramente única e exclusiva.
 
-**Benefícios para os Colecionadores**
-
-Os colecionadores de NFTs da ZCRAI desfrutam de diversos benefícios, incluindo acesso a lançamentos exclusivos, eventos especiais e a possibilidade de participar de decisões comunitárias relativas à direção futura das coleções. Além disso, cada NFT é acompanhado de um certificado de autenticidade digital, assegurando sua proveniência e legitimidade.
-
 **Compromisso com a Inovação**
 
 A ZCore Network está comprometida em permanecer na vanguarda do desenvolvimento de tecnologia blockchain e IA. Continuaremos a explorar novas possibilidades e a expandir nossas coleções de NFTs, garantindo que nossos colecionadores tenham acesso ao que há de mais avançado no mercado.
