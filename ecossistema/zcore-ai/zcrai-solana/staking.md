@@ -37,7 +37,10 @@ Para monitorar seus depósitos e rendimentos, visite:
 
 ### Compra de ZCRAI Sem Spread 💡
 
-Para garantir a melhor taxa ao comprar ZCRAI, utilize o bot do Telegram ZCRAI Solana. Evite spreads desnecessários e maximize seus investimentos.
+Para garantir a melhor taxa ao comprar ZCRAI, utilize o bot do Telegram ZCRAI Solana ou utilize nosso dApp exclusivo. Evite spreads desnecessários e maximize seus investimentos.
+
+* **Bot do Telegram** : [https://t.me/ZCRAISolBot](https://t.me/ZCRAISolBot)
+* **dApp** : [https://sol.zcore.ai/](https://sol.zcore.ai/)
 
 ### Conclusão 🚀
 
