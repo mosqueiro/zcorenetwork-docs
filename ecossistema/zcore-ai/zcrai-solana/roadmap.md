@@ -7,7 +7,7 @@
    * [x] Bot : [https://t.me/ZCRAISolBot](https://t.me/ZCRAISolBot)
    * [x] Dapp: [https://sol.zcore.ai/](https://sol.zcore.ai/)
 2. **Staking de LP (APR para incentivo de liquidez):**
-   * [ ] Staking de Liquidity Pool para incentivar a liquidez.
+   * [x] Staking de Liquidity Pool para incentivar a liquidez.
 3. **Mintagem da Coleção NFT ZCRAI:**
    * [ ] Processo de mintagem da coleção de NFT ZCRAI.
 4. **Implementação de queima total do supply token na geração do NFT:**
