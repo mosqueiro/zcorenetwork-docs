@@ -1,6 +1,6 @@
 # 🔐 Staking
 
-{% embed url="https://youtu.be/EIsvVMS5iBA" %}
+{% embed url="https://www.youtube.com/watch?v=Ph5zovtfr5o" %}
 
 ### Introdução ao Staking 🌱
 
