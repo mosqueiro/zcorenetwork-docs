@@ -12,11 +12,11 @@ Para participar do staking de LP, os usuários devem montar um par de liquidez d
 
 > **Link para o Pool de Staking ZCRAI :**&#x20;
 >
-> [https://beta.raydium.io/liquidity/increase/?mode=stake\&pool\_id=hzsQaPV2TxTsGzfqSRu9rqfVWUpZrvaa5uvYTzXKYuk](https://beta.raydium.io/liquidity/increase/?mode=stake\&pool\_id=hzsQaPV2TxTsGzfqSRu9rqfVWUpZrvaa5uvYTzXKYuk)
+> [https://raydium.io/liquidity/increase/?mode=stake\&pool\_id=hzsQaPV2TxTsGzfqSRu9rqfVWUpZrvaa5uvYTzXKYuk](https://raydium.io/liquidity/increase/?mode=stake\&pool\_id=hzsQaPV2TxTsGzfqSRu9rqfVWUpZrvaa5uvYTzXKYuk)
 
 #### Como Montar LP de ZCRAI/SOL
 
-1. Acesse a Raydium, a principal exchange descentralizada da rede Solana, utilizando o seguinte link para adicionar liquidez ao par ZCRAI/SOL: [https://beta.raydium.io/liquidity/increase/?mode=add\&pool\_id=hzsQaPV2TxTsGzfqSRu9rqfVWUpZrvaa5uvYTzXKYuk](https://beta.raydium.io/liquidity/increase/?mode=add\&pool\_id=hzsQaPV2TxTsGzfqSRu9rqfVWUpZrvaa5uvYTzXKYuk)
+1. Acesse a Raydium, a principal exchange descentralizada da rede Solana, utilizando o seguinte link para adicionar liquidez ao par ZCRAI/SOL: [https://raydium.io/liquidity/increase/?mode=add\&pool\_id=hzsQaPV2TxTsGzfqSRu9rqfVWUpZrvaa5uvYTzXKYuk](https://raydium.io/liquidity/increase/?mode=add\&pool\_id=hzsQaPV2TxTsGzfqSRu9rqfVWUpZrvaa5uvYTzXKYuk)
 2. Siga as instruções para adicionar liquidez ao pool ZCRAI e SOL, sem se preocupar com ranges; o tipo de LP padrão é direto, você apenas cria o LP e o deposita no pool de staking.
 3. Após adicionar liquidez, você receberá tokens LP que simbolizam sua parte no pool.
 
@@ -24,7 +24,7 @@ Para participar do staking de LP, os usuários devem montar um par de liquidez d
 
 Para monitorar seus depósitos e rendimentos, visite:
 
-* [https://beta.raydium.io/portfolio/?position\_tab=standard](https://beta.raydium.io/portfolio/?position\_tab=standard)
+* [https://raydium.io/portfolio/?position\_tab=standard](https://raydium.io/portfolio/?position\_tab=standard)
 * Na aba "Minhas Posições", selecione **PADRÃO** para ver seus pools de liquidez.
 * Confira os detalhes dos seus stakings e os rendimentos acumulados.
 
