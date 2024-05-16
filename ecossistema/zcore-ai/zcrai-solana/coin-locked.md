@@ -59,4 +59,4 @@ Para garantir a segurança dos holders, todos os tokens ZCRAI estão travados em
 
 #### ✅ Conclusão
 
-O cronograma de liberação do ZCRAI é uma medida essencial para manter a segurança do investimento e a sustentabilidade do projeto a longo prazo. A liberação controlada dos tokens garante que os recursos sejam utilizados de maneira eficiente e responsável, contribuindo para o crescimento e sucesso contínuo do ZCRAI na rede Solana.
+O cronograma de liberação do ZCRAI é uma medida essencial para manter a segurança do investimento e a sustentabilidade do projeto a longo prazo. A liberação controlada dos tokens garante que os recursos sejam utilizados de maneira eficiente e responsável, contribuindo para o crescimento e sucesso contínuo do ZCRAI na rede Solana. Contabilizando todos os contratos, totalizam o supply de 1 bilhão de unidades.
