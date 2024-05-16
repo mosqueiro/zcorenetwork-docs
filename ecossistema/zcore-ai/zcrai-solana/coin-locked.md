@@ -37,8 +37,7 @@ Para garantir a segurança dos holders, todos os tokens ZCRAI estão travados em
 **🎁 ZCRAI BSC Airdrop**
 
 * **Total de Tokens:** 100 milhões
-* **Liberação Total:** 100 milhões de tokens
-* **Propósito:** Airdrop de acordo com o andamento do roadmap
+* **Liberação:** Airdrop de acordo com o andamento do roadmap
 * **Contrato:** [3rBQ4CdpW5mLBvg67psDud89sGYnLYRHAjkvB9aWYw38](https://vesting.bonfida.org/3rBQ4CdpW5mLBvg67psDud89sGYnLYRHAjkvB9aWYw38)
 
 **📣 Campanhas de Marketing, Listagem em CEX, Airdrops**
