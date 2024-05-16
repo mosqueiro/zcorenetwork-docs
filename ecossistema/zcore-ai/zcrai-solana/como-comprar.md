@@ -12,6 +12,10 @@ A aquisição de ZCRAI na rede Solana é facilitada tanto pelo nosso bot no Tele
 * **Link do dApp:** [https://sol.zcore.ai](https://sol.zcore.ai)
 * Conecte sua carteira Solana ao dApp para efetuar a compra de ZCRAI de maneira direta e eficiente.
 
+### Através da Jupiter (Dex)
+
+* **Link do dApp:** [https://jup.ag/swap/SOL-DpCzuUVptrvEquumfomwJQjWrgQXXDN9Ar217oGxcohe](https://jup.ag/swap/SOL-DpCzuUVptrvEquumfomwJQjWrgQXXDN9Ar217oGxcohe)
+
 ### Compra Direta Sem Spread 🚫💸
 
 * **Sem Spread:** Através do bot e do dApp, adquira ZCRAI pelo preço fixado, sem os custos adicionais relacionados ao spread das exchanges.
