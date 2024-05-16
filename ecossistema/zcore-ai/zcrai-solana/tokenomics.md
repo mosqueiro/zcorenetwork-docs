@@ -1,5 +1,9 @@
 # 📊 Tokenomics
 
+<figure><img src="../../../.gitbook/assets/Brown Modern Circle Chart Graph (Post para Twitter).png" alt=""><figcaption></figcaption></figure>
+
+Blockchain: **Solana**
+
 Nome : **ZCore AI**
 
 Simbolo : **ZCRAI**
@@ -9,6 +13,8 @@ Max Supply : **1,000,000,000**
 Contrato : `DpCzuUVptrvEquumfomwJQjWrgQXXDN9Ar217oGxcohe`
 
 Detalhes : :globe\_with\_meridians: [**SolScan**](https://solscan.io/token/DpCzuUVptrvEquumfomwJQjWrgQXXDN9Ar217oGxcohe)
+
+
 
 **Clique no link abaixo para ver o sistema de Vesting:**
 
