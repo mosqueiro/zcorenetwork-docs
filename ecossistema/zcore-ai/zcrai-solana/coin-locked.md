@@ -50,6 +50,12 @@ Para garantir a segurança dos holders, todos os tokens ZCRAI estão travados em
 * **Propósito:** Iniciar campanhas de marketing e listagens
 * **Contrato:** [CQqkefWBSrfDnF7mkZXg65majRRsBdZn3KHkEeoUD91j](https://vesting.bonfida.org/CQqkefWBSrfDnF7mkZXg65majRRsBdZn3KHkEeoUD91j)
 
+**💼 Venda do dApp e Bot**
+
+* **Endereço:** 5U948oLCUQ8MvXV14yombzgZ8z4Lq5Aj5nLgzMAzxZAq
+* **Propósito:** Os tokens ficam alocados para serem comprados com SOL, sendo o valor utilizado para desenvolvimento do projeto, manutenção, listagens, entre outras necessidades.
+* **Contrato:** [5U948oLCUQ8MvXV14yombzgZ8z4Lq5Aj5nLgzMAzxZAq](https://vesting.bonfida.org/5U948oLCUQ8MvXV14yombzgZ8z4Lq5Aj5nLgzMAzxZAq)
+
 #### ✅ Conclusão
 
 O cronograma de liberação do ZCRAI é uma medida essencial para manter a segurança do investimento e a sustentabilidade do projeto a longo prazo. A liberação controlada dos tokens garante que os recursos sejam utilizados de maneira eficiente e responsável, contribuindo para o crescimento e sucesso contínuo do ZCRAI na rede Solana.
