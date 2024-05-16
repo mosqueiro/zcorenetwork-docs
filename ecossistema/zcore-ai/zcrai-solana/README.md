@@ -27,6 +27,10 @@ Essa coleção na rede Solana é um exemplo de como a criatividade e a inovaçã
 [tokenomics.md](tokenomics.md)
 {% endcontent-ref %}
 
+{% content-ref url="coin-locked.md" %}
+[coin-locked.md](coin-locked.md)
+{% endcontent-ref %}
+
 {% content-ref url="como-comprar.md" %}
 [como-comprar.md](como-comprar.md)
 {% endcontent-ref %}
@@ -50,3 +54,4 @@ Essa coleção na rede Solana é um exemplo de como a criatividade e a inovaçã
 {% content-ref url="links-uteis.md" %}
 [links-uteis.md](links-uteis.md)
 {% endcontent-ref %}
+
