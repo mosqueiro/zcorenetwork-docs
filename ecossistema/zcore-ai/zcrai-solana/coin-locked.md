@@ -42,7 +42,7 @@ Para garantir a segurança dos holders, todos os tokens ZCRAI estão travados em
 * **Propósito:** Airdrop de acordo com o andamento do roadmap
 * **Contrato:** [3rBQ4CdpW5mLBvg67psDud89sGYnLYRHAjkvB9aWYw38](https://vesting.bonfida.org/3rBQ4CdpW5mLBvg67psDud89sGYnLYRHAjkvB9aWYw38)
 
-**📣 Campanhas de Marketing, Team, Listagem em CEX, Airdrops**
+**📣 Campanhas de Marketing, Listagem em CEX, Airdrops**
 
 * **Total de Tokens:** 100 milhões
 * **Período de Liberação:** Maio de 2024 a Maio de 2026 (25 meses)
@@ -52,8 +52,9 @@ Para garantir a segurança dos holders, todos os tokens ZCRAI estão travados em
 
 **💼 Venda do dApp e Bot**
 
+* **Total de Tokens:** 200 milhões
 * **Endereço:** 5U948oLCUQ8MvXV14yombzgZ8z4Lq5Aj5nLgzMAzxZAq
-* **Propósito:** Os tokens ficam alocados para serem comprados com SOL, sendo o valor utilizado para desenvolvimento do projeto, manutenção, listagens, entre outras necessidades.
+* **Propósito:** Os tokens ficam alocados para serem comprados com SOL, sendo o valor utilizado para desenvolvimento do projeto, manutenção, listagens, entre outras necessidades. Este contrato foi desenvolvido pela ZCore Network e possui um sistema de compra ligado ao dApp/bot do Telegram.
 * **Contrato:** [5U948oLCUQ8MvXV14yombzgZ8z4Lq5Aj5nLgzMAzxZAq](https://vesting.bonfida.org/5U948oLCUQ8MvXV14yombzgZ8z4Lq5Aj5nLgzMAzxZAq)
 
 #### ✅ Conclusão
