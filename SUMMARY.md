@@ -22,6 +22,7 @@
 * [🤖 ZCore AI](ecossistema/zcore-ai/README.md)
   * [🟣 ZCRAI Solana](ecossistema/zcore-ai/zcrai-solana/README.md)
     * [📊 Tokenomics](ecossistema/zcore-ai/zcrai-solana/tokenomics.md)
+    * [🔐 Coin Locked](ecossistema/zcore-ai/zcrai-solana/coin-locked.md)
     * [🛒 Como Comprar](ecossistema/zcore-ai/zcrai-solana/como-comprar.md)
     * [↔️ Ponte BSC-Solana](ecossistema/zcore-ai/zcrai-solana/ponte-bsc-solana.md)
     * [🤖 Bot Telegram](ecossistema/zcore-ai/zcrai-solana/bot-telegram.md)

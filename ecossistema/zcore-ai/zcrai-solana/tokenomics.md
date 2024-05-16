@@ -10,6 +10,12 @@ Contrato : `DpCzuUVptrvEquumfomwJQjWrgQXXDN9Ar217oGxcohe`
 
 Detalhes : :globe\_with\_meridians: [**SolScan**](https://solscan.io/token/DpCzuUVptrvEquumfomwJQjWrgQXXDN9Ar217oGxcohe)
 
+**Clique no link abaixo para ver o sistema de Vesting:**
+
+{% content-ref url="coin-locked.md" %}
+[coin-locked.md](coin-locked.md)
+{% endcontent-ref %}
+
 ### Detalhes do Token 💾
 
 * **Uso do Token:** Os tokens são utilizados para mintar NFTs da coleção. Cada NFT requer a queima de 100.000 tokens. 🔥
