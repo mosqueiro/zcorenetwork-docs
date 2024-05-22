@@ -4,7 +4,7 @@
 
 **Introdução à Rede EVM ZCN da ZCore Network**
 
-Estamos entusiasmados em apresentar a Rede EVM ZCN da ZCore Network, um avanço significativo na nossa infraestrutura blockchain, com lançamento previsto para fevereiro de 2024. Esta rede representa um marco na evolução da ZCore, fortalecendo nossa posição no ecossistema de criptomoedas.
+Estamos entusiasmados em apresentar a Rede EVM ZCN da ZCore Network, um avanço significativo na nossa infraestrutura blockchain. Esta rede representa um marco na evolução da ZCore, fortalecendo nossa posição no ecossistema de criptomoedas.
 
 **Desenvolvimento e Teste da Rede**
 
